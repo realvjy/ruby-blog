@@ -1,0 +1,2 @@
+# ruby-blog
+learn ruby
